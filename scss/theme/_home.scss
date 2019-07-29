@@ -70,7 +70,7 @@
 .banner-area {
 	background: url(../img/banner-bg-2.jpg) no-repeat center center/cover;
 	.overlay-bg {
-		background: rgba($primary-color, .9);
+		background: rgba($primary-color, .7);
 	}
 	.fullscreen {
 		@include media-breakpoint-down (sm) {
